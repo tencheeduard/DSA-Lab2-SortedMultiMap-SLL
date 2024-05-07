@@ -1,0 +1,51 @@
+KeyIterator:
+	key: TKeyNode
+	currentValue : TValueNode
+
+
+subalgorithm first(i) is:
+	// pre: i : KeyIterator
+	// post: i will reset its current position to the key's first position
+	// throws: exception, when the current position is invalid (valid(i) returns false)
+
+	if valid(i) = false then
+		@throw exception
+	end-if
+
+	i.currentValue <- i.key.head
+
+end-subalgorithm
+
+subalgorithm next(i) is:
+	// pre: i : KeyIterator
+	// post: i will move on to the next position if the current position is valid
+	// throws: exception, when the current position is invalid (valid(i) returns false)
+
+	if valid(i) = false then
+		@throw exception
+	end-if
+
+	i.currentValue <- i.currentValue.next
+
+end-subalgorithm
+
+function valid(i) is:
+	// pre: i : KeyIterator
+	// post: true if current position is valid, false if it is not
+
+	valid <- i.currentValue =/= NULL
+
+end-function
+
+function getCurrent(i) is:
+	// pre: i : KeyIterator
+	// post: the TElem at the current position
+	// throws: exception, when the current position is invalid (valid(i) returns false)
+
+	if valid(i) = false then
+		@throw exception
+	end-if
+
+	getCurrent <- TElem(i.key.key, i.currentValue.value)
+
+end-function

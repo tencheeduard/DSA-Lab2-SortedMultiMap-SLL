@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\pseudocod.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:pseudocod.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\KeyIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:KeyIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\KeyIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:KeyIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SortedMultiMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:SortedMultiMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SortedMultiMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:SortedMultiMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SMMIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:SMMIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SMMIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFA4DC59-B707-4C60-A24C-5808F47799CE}|DSA-Lab2-SortedMultiMap-SLL.vcxproj|solutionrelative:SMMIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pseudocod.txt",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\pseudocod.txt",
+              "RelativeDocumentMoniker": "pseudocod.txt",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\pseudocod.txt",
+              "RelativeToolTip": "pseudocod.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T14:00:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyIterator.h",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\KeyIterator.h",
+              "RelativeDocumentMoniker": "KeyIterator.h",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\KeyIterator.h",
+              "RelativeToolTip": "KeyIterator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T13:07:50.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyIterator.cpp",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\KeyIterator.cpp",
+              "RelativeDocumentMoniker": "KeyIterator.cpp",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\KeyIterator.cpp",
+              "RelativeToolTip": "KeyIterator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T13:09:11.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtendedTest.cpp",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\ExtendedTest.cpp",
+              "RelativeDocumentMoniker": "ExtendedTest.cpp",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\ExtendedTest.cpp",
+              "RelativeToolTip": "ExtendedTest.cpp",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAANcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T23:36:54.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SMMIterator.h",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SMMIterator.h",
+              "RelativeDocumentMoniker": "SMMIterator.h",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SMMIterator.h",
+              "RelativeToolTip": "SMMIterator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T14:41:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SMMIterator.cpp",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SMMIterator.cpp",
+              "RelativeDocumentMoniker": "SMMIterator.cpp",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SMMIterator.cpp",
+              "RelativeToolTip": "SMMIterator.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T22:09:24.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortedMultiMap.h",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SortedMultiMap.h",
+              "RelativeDocumentMoniker": "SortedMultiMap.h",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SortedMultiMap.h",
+              "RelativeToolTip": "SortedMultiMap.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T22:30:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortedMultiMap.cpp",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SortedMultiMap.cpp",
+              "RelativeDocumentMoniker": "SortedMultiMap.cpp",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\SortedMultiMap.cpp",
+              "RelativeToolTip": "SortedMultiMap.cpp",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T22:05:34.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShortTest.cpp",
+              "DocumentMoniker": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\ShortTest.cpp",
+              "RelativeDocumentMoniker": "ShortTest.cpp",
+              "ToolTip": "D:\\Homework\\DSA\\Lab2\\DSA-Lab2-SortedMultiMap-SLL\\ShortTest.cpp",
+              "RelativeToolTip": "ShortTest.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T21:50:47.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

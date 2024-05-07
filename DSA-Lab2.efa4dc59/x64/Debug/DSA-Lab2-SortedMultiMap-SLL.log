@@ -1,0 +1,9 @@
+﻿  SortedMultiMap.cpp
+D:\Homework\DSA\Lab2\DSA-Lab2-SortedMultiMap-SLL\SortedMultiMap.h(21,2): warning C4091: 'typedef ': ignored on left of 'TValueNode' when no variable is declared
+  (compiling source file 'SortedMultiMap.cpp')
+  
+D:\Homework\DSA\Lab2\DSA-Lab2-SortedMultiMap-SLL\SortedMultiMap.h(29,2): warning C4091: 'typedef ': ignored on left of 'TKeyNode' when no variable is declared
+  (compiling source file 'SortedMultiMap.cpp')
+  
+D:\Homework\DSA\Lab2\DSA-Lab2-SortedMultiMap-SLL\SortedMultiMap.cpp(256,1): warning C4715: 'SortedMultiMap::keyIterator': not all control paths return a value
+  DSA-Lab2-SortedMultiMap-SLL.vcxproj -> D:\Homework\DSA\Lab2\DSA-Lab2-SortedMultiMap-SLL\x64\Debug\DSA-Lab2-SortedMultiMap-SLL.exe
